@@ -19,7 +19,7 @@ const Calculator = () => {
   };
   return (
     <div id="calculator">
-      <h1 id="title">Simple Calculator</h1>
+      <h1 id="title">Basic Calculator</h1>
       <h3 id="result">Result: {result}</h3>
       <div id="inputGroup">
         <input
